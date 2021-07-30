@@ -5,7 +5,7 @@ const connectDB = require('./db/connect')
 const notFount = require('./middleware/not-found')
 require('dotenv').config()
 
-//middleware 
+//middleware
 app.use(express.json())
 app.use(express.static('./public'))
 app.use(notFount)
