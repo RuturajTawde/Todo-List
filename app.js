@@ -8,9 +8,11 @@ require('dotenv').config()
 //middleware
 app.use(express.json())
 app.use(express.static('./public'))
-app.use(notFount)
+
 //route
 app.use('/api/v1/todo', todo)
+
+app.use(notFount)
 
 const port = process.env.PORT || 3000;
 const start = async () => {
