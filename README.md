@@ -2,7 +2,7 @@
 
 This is my first project to practice basic CRUD operations.
 
-## Available Scripts
+## Available Scripts:
 
 In the project directory, you can run:
 
