@@ -1,4 +1,4 @@
-# [Todo List | Node.js]( )
+# [Todo List | Node.js](https://todolist-ruturaj.herokuapp.com/)
 
 This is my first project to practice basic CRUD operations.
 
@@ -34,6 +34,6 @@ You can do the following things:
 3. Edit any given task. You can change the task name or you can mark it as completed.
 4. Delete a task from the task pool.
 
-You can also [demo]( ) it now.
+You can also [demo](https://todolist-ruturaj.herokuapp.com/) it now.
 
 ### `Special Thanks to John Smilga for the awesome tutorial.` ♥
